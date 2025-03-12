@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/c3293c15-f613-441e-a1bc-de028bcfec8f)
+
 # 🏆 Gerenciador de Fila de Usuários com Python
 
 
